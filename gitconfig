@@ -1,0 +1,14 @@
+[user]
+	name = Qusic
+	email = qusicx@gmail.com
+[core]
+	editor = nvim
+	autocrlf = input
+[push]
+	default = current
+[pull]
+	ff = only
+[merge]
+	conflictstyle = diff3
+[credential]
+	helper = store
